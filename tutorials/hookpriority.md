@@ -113,7 +113,7 @@ This section details some additional tricks to the hook priority system.
 
 - Pre/Post values embedded into `Priority::` do exist, but they are not that recommended as arithmetic on them can be confusing. (Positive becomes negative for Post)
 
-- Manual hooks can have their priorities set through the [Hook::setPriority](/classes/geode/Hook#setPriority) method.
+- Manual hooks can have their priorities set through the [Hook::setPriority](/classes/geode/Hook/#setPriority) method.
 
 - It is not possible to set the priorities of multiple functions with overloaded parameters in the same modify class (as this would require specifying arguments). In this situation, either split the hooks into separate modify classes or manually hook.
 
