@@ -111,7 +111,7 @@ auto hook2 = GEODE_UNWRAP(ObjcHook::create("EAGLView", "initWithFrame:", &MyFunc
 
 ## Tasks
 
-Visit the [tasks](tasks.md) page for more information.
+Visit the [tasks](/tutorials/tasks.md) page for more information.
 
 ## Cocos related
 
