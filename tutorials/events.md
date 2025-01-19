@@ -252,4 +252,4 @@ Any event listener added with `addEventListener` is automatically destroyed aswe
 
 ## Dispatched events
 
-There also exist special types of events called **dispatch events** - these are intended for use within optional dependencies. See [the tutorial on dependencies](/mods/dependencies.md#events) for more information.
+There also exist special types of events called **dispatch events** - these are intended for use within optional dependencies. See [the tutorial on dependencies](/mods/dependencies#events) for more information.
